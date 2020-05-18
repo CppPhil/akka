@@ -1,4 +1,4 @@
-name := "poststop"
+name := "failure_handling"
 
 version := "1.0"
 
