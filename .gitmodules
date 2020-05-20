@@ -1,0 +1,3 @@
+[submodule "levkhomich"]
+	path = levkhomich
+	url = https://github.com/levkhomich/activator-akka-tracing.git
